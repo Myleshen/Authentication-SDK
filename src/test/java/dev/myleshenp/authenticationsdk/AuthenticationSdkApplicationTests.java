@@ -1,0 +1,13 @@
+package dev.myleshenp.authenticationsdk;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AuthenticationSdkApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
